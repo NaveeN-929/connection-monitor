@@ -22,7 +22,6 @@ kubectl `winget install kubectl`.
 
 ## Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/NaveeN-929/connection-monitor
 cd connection-monitor
@@ -64,8 +63,6 @@ http://localhost/connections
 ### verify react app
 http://localhost:3000
 ![Alt text](image.png)
-
-```
 
 
 ## Terminate the created resources
