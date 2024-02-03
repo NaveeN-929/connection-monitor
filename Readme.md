@@ -8,24 +8,24 @@ This project combines PostgreSQL as the database, Express.js as the Node.js appl
 
 ## Prerequisites
 
-Node.js and npm
-Express.js: `npm install express`
-CORS Middleware
-Axios (HTTP client for React)
-PostgreSQL Database Connection Details
+Node.js and npm,
+Express.js: `npm install express`,
+CORS Middleware,
+Axios (HTTP client for React),
+PostgreSQL Database Connection Details.
 
 (Local-Setup)
 
-Docker Desktop
-K8s
-kubectl `winget install kubectl`
+Docker Desktop,
+K8s,
+kubectl `winget install kubectl`.
 
 ## Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
-cd 
+git clone https://github.com/NaveeN-929/connection-monitor
+cd connection-monitor
 
 # Set-up React app
 cd react-monitor
