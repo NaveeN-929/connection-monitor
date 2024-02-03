@@ -38,6 +38,9 @@ npm start
 http://localhost:3000
 ![Alt text](image-1.png)
 
+## k8s architecture
+![Alt text](connection-monitor-arch.png)
+
 ## Set-up Postgres DB container
 ```
 cd ~
